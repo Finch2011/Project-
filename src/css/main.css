@@ -14,4 +14,9 @@ ul {
   list-style: none;
 }
 
+body {
+  background: rgb(120, 30, 207);
+  background: linear-gradient(90deg, rgb(120, 30, 207) 0%, rgb(15, 8, 23) 80%);
+}
+
 /*# sourceMappingURL=main.css.map */
